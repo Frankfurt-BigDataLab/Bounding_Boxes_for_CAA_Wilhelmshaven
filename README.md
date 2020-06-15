@@ -4,13 +4,13 @@ Code and Bounding Boxes model done for CAA Wilhelmshaven 2019 (https://ag-caa.de
 # Installation:
 Beside the files from this repository you need to download the following model files:
 
-to /model folder:
+Save to /model folder:
 
 https://drive.google.com/file/d/1-rAm-ZL_5clG3QUJapuSgUT9sm4tvI9a/view?usp=sharing
 
 https://drive.google.com/file/d/1Jf1hfkArNk3uiZzYL7fE7I6dH5L7O0uT/view?usp=sharing
 
-to /model/saved_model folder (has to be created):
+Save to /model/saved_model folder (has to be created):
 
 https://drive.google.com/file/d/1mNRdHKoPnB0srAT7YQYcj4TEexRDOp1e/view?usp=sharing
 
